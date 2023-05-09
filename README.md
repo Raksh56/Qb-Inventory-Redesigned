@@ -16,13 +16,27 @@ By Raksh
 * Make sure you have latest updated [qb-smallresources](https://github.com/qbcore-framework/qb-smallresources)
 * Make sure you have latest updated [qb-weapons](https://github.com/qbcore-framework/qb-weapons)
 * Drag source files into your resources folder
-* Replace all qb-inventory redesigned to qb-inventory
-
+* Replace all qb-inventory to qb-inventory. Example below using Visual Studio Code in replacing all instances. 
  
 
+# Key Features
+* ALL IMAGES FOLLOW THE SAME DIMENSIONS
+* Easy Photoshop guideline template for creating custom images within qb-inventory
+* Custom brand logo above option buttons
+* Options menu
+* Help box 
+* Custom inventory images (more always being added in each new update)
+* Default weight icon easily changeable with Font Awesome icons
+* Hotkey numbers visible in inventory and hotbar slots
+* Weight progress bar
+* Tooltip has a determined height (so it won't ever go higher than visible or cut off)
+* Text overflow ellipsis used (so your product titles with never overlap the containers and instead do "...")
+* Blurred inventory background
+* Elements of NoPixel 3.5 design ideas interwoven
+#
 
-## Screenshots
-![QBCORE Inventory](https://media.discordapp.net/attachments/1036234053256486955/1105503304814973058/Screenshot_2023-04-21_204527.png?width=1177&height=662)
+# Previews
+![Image] (https://media.discordapp.net/attachments/1036234053256486955/1105503304814973058/Screenshot_2023-04-21_204527.png?width=1177&height=662.png)
 
 
 
