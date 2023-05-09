@@ -35,7 +35,7 @@ By Raksh
 * Elements of NoPixel 3.5 design ideas interwoven
 #
 
-# Previews
+## Previews
 ![Image] (https://media.discordapp.net/attachments/1036234053256486955/1105503304814973058/Screenshot_2023-04-21_204527.png?width=1177&height=662.png)
 
 
